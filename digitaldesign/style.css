@@ -1,0 +1,27 @@
+
+#a {text-align: center;}
+		#b {text-align: center;
+			border-bottom: 2px solid black;}
+		#b-1 {text-align: center;
+			margin-bottom: 40px;
+			margin-top: 50px;}
+		#b-2 {text-align: center;
+			margin-bottom: 40px;}
+		#c {text-align: center;
+			margin-top: 30px;
+			}
+		#c-1 {text-align: center;
+			margin-top: 30px;
+			margin-bottom: 40px;}
+		#c-2 {text-align: center;
+			margin-bottom: 40px;}
+		#c-3 {text-align: center;
+			margin-bottom: 40px;}
+		#c-4 {text-align: center;
+			margin-bottom: 40px;}
+		#c-5 {text-align: center;
+			margin-bottom: 40px;}
+		#d {text-align: center;
+			margin-top: 40px;
+			margin-bottom: 40px;}
+		#d-1 {text-align: center;}
